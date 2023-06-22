@@ -25,7 +25,7 @@ The parameters of ```openFile()``` are the same as ```window.showOpenFilePicker(
           } else {
               console.log("User has selected files: ", data.files);
           }
-      }.catch((err) => {
+      }).catch((err) => {
           console.log(err);
       });
   });
