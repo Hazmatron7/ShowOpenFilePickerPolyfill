@@ -65,6 +65,7 @@ async function openFile(options) {
        } else {
          throw err;
        }
+     }
          
   } else {
     /*
