@@ -1,6 +1,6 @@
 # ShowOpenFilePickerPolyfill
 
-This is a (<strong>sort of</strong>) polyfill for ```window.showOpenFilePicker()```. 
+This is a (<strong>sort of</strong>) polyfill for ```window.showOpenFilePicker()```. This polyfill uses a hidden HTML5 file input tag with file dialog closing detection included.
 
 
 
